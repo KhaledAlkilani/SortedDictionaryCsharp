@@ -1,0 +1,14 @@
+C:\Users\mc120\source\repos\SortedDictionary\SortedDictionary\bin\Debug\net8.0\SortedDictionary.exe
+C:\Users\mc120\source\repos\SortedDictionary\SortedDictionary\bin\Debug\net8.0\SortedDictionary.deps.json
+C:\Users\mc120\source\repos\SortedDictionary\SortedDictionary\bin\Debug\net8.0\SortedDictionary.runtimeconfig.json
+C:\Users\mc120\source\repos\SortedDictionary\SortedDictionary\bin\Debug\net8.0\SortedDictionary.dll
+C:\Users\mc120\source\repos\SortedDictionary\SortedDictionary\bin\Debug\net8.0\SortedDictionary.pdb
+C:\Users\mc120\source\repos\SortedDictionary\SortedDictionary\obj\Debug\net8.0\SortedDictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mc120\source\repos\SortedDictionary\SortedDictionary\obj\Debug\net8.0\SortedDictionary.AssemblyInfoInputs.cache
+C:\Users\mc120\source\repos\SortedDictionary\SortedDictionary\obj\Debug\net8.0\SortedDictionary.AssemblyInfo.cs
+C:\Users\mc120\source\repos\SortedDictionary\SortedDictionary\obj\Debug\net8.0\SortedDictionary.csproj.CoreCompileInputs.cache
+C:\Users\mc120\source\repos\SortedDictionary\SortedDictionary\obj\Debug\net8.0\SortedDictionary.dll
+C:\Users\mc120\source\repos\SortedDictionary\SortedDictionary\obj\Debug\net8.0\refint\SortedDictionary.dll
+C:\Users\mc120\source\repos\SortedDictionary\SortedDictionary\obj\Debug\net8.0\SortedDictionary.pdb
+C:\Users\mc120\source\repos\SortedDictionary\SortedDictionary\obj\Debug\net8.0\SortedDictionary.genruntimeconfig.cache
+C:\Users\mc120\source\repos\SortedDictionary\SortedDictionary\obj\Debug\net8.0\ref\SortedDictionary.dll
